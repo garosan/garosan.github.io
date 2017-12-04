@@ -1,5 +1,6 @@
 body {
 	font-family: 'Share Tech Mono', monospace;
+	background-color: #fafafa;
 }
 
 h2, p {
@@ -23,9 +24,8 @@ h2 {
 	margin-top: 80px;
 }
 
-.left-panel p {
+p {
 	font-size: 18px;
-	text-align: left;
 }
 
 .right-panel {
@@ -34,4 +34,15 @@ h2 {
 
 .right-panel i {
 	padding: 15px 5px 0 5px;
+}
+
+.about-container {
+	max-width: 900px;
+	text-align: justify;
+}
+
+hr {
+	width: 800px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
 }
