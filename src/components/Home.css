@@ -1,0 +1,17 @@
+.home {
+  display: flex;
+  min-height: 90vh;
+  align-items: center;
+}
+
+.profile_pic {
+  border-radius: 100%;
+}
+
+#social_handles {
+  margin-top: 20px;
+}
+
+#social_handles a {
+  margin: 0 10px;
+}
