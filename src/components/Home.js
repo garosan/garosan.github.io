@@ -10,15 +10,14 @@ const Home = () => {
           <h1>Hello I'm Edgar!</h1>
           <br />
           <p style={{ textAlign: "justify" }}>
-            Software engineer with 3 years experience building websites. Focused
-            on creating engaging digital experiences for a better, more
-            connected world.
+            I'm a software engineer with 3 years of experience. I started my career at Accenture
+            before joining a San Francisco based startup as a fullstack developer. In 2020, I quit
+            this gig to develop my own web app and freelance in the MERN and e-commerce ecosystems.
           </p>
           <p style={{ textAlign: "justify" }}>
-            I'm a disciplined, motivated individual with a self-improvement
-            mentality. When I'm not coding or doing tech, I enjoy reading and
-            learning new stuff. I love hiking, running & hitting the gym. Hate
-            to cook but I'm working on it.
+            I'm a disciplined, motivated individual with a self-improvement mentality. When I'm not
+            coding or doing tech, I enjoy reading and learning new stuff. I love hiking, running &
+            hitting the gym. Hate to cook but I'm working on it.
           </p>
         </div>
         <div className="col" style={{ textAlign: "center" }}>
